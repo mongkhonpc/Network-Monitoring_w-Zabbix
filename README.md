@@ -11,6 +11,6 @@
 โดยใช้โปรแกรม Zabbix ในการสังเกตสถานะของอุปกรณ์ โดยโปรแกรม Zabbix นั้นสามารถบอกรายละเอียดได้มากมายอย่าง<br>
 เช่น การใช้ CPU, RAM, Disk ของ host หรือการสังเกตการณ์การทำงานของ Switch โดยสามารถบอก Traffic ของ Switch ในแต่ละ Interfaces<br>
 โดยจะทำการทดลองในโปรแกรม GNS3 เพื่อเป็นการจำลองการทำงานของโปรแกรม<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;โดย Zabbix คือระบบ Open Source IT Infrastructure Monitoring ที่รองรับการตรวจสอบการทำงานของทั้ง Server, Storage, Network, Security และ Virtualization ภายในองค์กรได้อย่างครอบคลุม<br>และด้วยประสบการณ์การติดตั้งและการพัฒนาส่วนเสริมต่างๆ สำหรับ Zabbix นั้นก็ทำให้ Zabbix สามารถตอบโจทย์การ Monitor ระบบใดๆ ได้ด้วยราคาประหยัดกว่าโซลูชั่นอื่นๆ เป็นอย่างมาก<br>
-ด้วยความสามารถในการตรวจสอบการทำงานของระบบต่างๆ ทั้งจากการใช้ Agent, SSH และ External Probe ก็ทำให ้Zabbix สามารถนำไปปรับใช้เพื่อตรวจสอบทั้งการทำงานของ Hardware, Software, Application, Process และอื่นๆ ได้อีกมากมาย<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;โดย Zabbix คือระบบ Open Source IT Infrastructure Monitoring ที่รองรับการตรวจสอบการทำงานของทั้ง Server, Storage, Network, Security และ Virtualization ภายในองค์กรได้อย่างครอบคลุมและด้วยประสบการณ์การติดตั้งและการพัฒนาส่วนเสริมต่างๆ สำหรับ Zabbix นั้นก็ทำให้ Zabbix สามารถตอบโจทย์การ Monitor ระบบใดๆ ได้ด้วยราคาประหยัดกว่าโซลูชั่นอื่นๆ เป็นอย่างมาก<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ด้วยความสามารถในการตรวจสอบการทำงานของระบบต่างๆ ทั้งจากการใช้ Agent, SSH และ External Probe ก็ทำให ้Zabbix สามารถนำไปปรับใช้เพื่อตรวจสอบทั้งการทำงานของ Hardware, Software, Application, Process และอื่นๆ ได้อีกมากมาย<br>
 นอกจากนี้ภายใน Zabbix ยังมีหน้าจอ Dashboard และ Report จำนวนมาก พร้อมให้ใช้ตรวจสอบและติดตามปัญหาต่างๆ ที่เกิดขึ้นกับระบบ IT ได้ตลอดเวลา
